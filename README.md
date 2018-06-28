@@ -6,7 +6,7 @@ The ride sharing bonanza continues! Seeing the success of notable players like U
 
 You've since been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
-** Objective: ** 
+Objective: 
     Build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_chart) that showcases the relationship between four key variables:
 
 * Average Fare ($) Per City
